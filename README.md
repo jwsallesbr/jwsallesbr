@@ -25,6 +25,7 @@
 - 🔄 Operações de NOC e Resposta a Incidentes
 - 🤖 Automação de Processos e Scripts
 - 📊 Monitoramento e Otimização de Desempenho
+- 💾 Backup & Recuperação
 - ☁️ Nuvem e Ambientes Híbridos
 - 🔐 Segurança de Infraestrutura
 
