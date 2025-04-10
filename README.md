@@ -70,6 +70,11 @@
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-5CD85A?style=flat&logo=openvas&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
 
+## 💾 Backup & Recuperação
+![Veeam](https://img.shields.io/badge/Veeam-00BFFF?style=flat&logo=veeam&logoColor=white)
+![BDRSuite](https://img.shields.io/badge/BDR_Suite-0052CC?style=flat&logo=veeam&logoColor=white)
+![Bacula](https://img.shields.io/badge/Bacula-FF6600?style=flat&logo=bacula&logoColor=white)
+
 ## 🖥️ Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
