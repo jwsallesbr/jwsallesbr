@@ -67,6 +67,7 @@
 ### 🌐 Redes & Segurança
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-FFFFFF?style=flat&logo=mikrotik&logoColor=black)
 ![GPON](https://img.shields.io/badge/GPON-00A98F?style=flat&logo=fiber&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-5CD85A?style=flat&logo=openvas&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
