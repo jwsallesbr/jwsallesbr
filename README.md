@@ -45,57 +45,64 @@
 
 ---
 
-## 🔍 Monitoramento & Observabilidade
+### 🔍 Monitoramento & Observabilidade
 ![Zabbix](https://img.shields.io/badge/Zabbix-D30000?style=flat&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 
-## ⚙️ Automação & Scripting
+### ⚙️ Automação & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-## ☁️ Cloud & Virtualização
+### ☁️ Cloud & Virtualização
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 🌐 Redes & Segurança
+### 🌐 Redes & Segurança
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white)
 ![GPON](https://img.shields.io/badge/GPON-00A98F?style=flat&logo=fiber&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-5CD85A?style=flat&logo=openvas&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
 
-## 💾 Backup & Recuperação
+### 💾 Backup & Recuperação
 ![Veeam](https://img.shields.io/badge/Veeam-00BFFF?style=flat&logo=veeam&logoColor=white)
 ![BDRSuite](https://img.shields.io/badge/BDR_Suite-0052CC?style=flat&logo=veeam&logoColor=white)
 ![Bacula](https://img.shields.io/badge/Bacula-FF6600?style=flat&logo=bacula&logoColor=white)
 
-## 🖥️ Sistemas Operacionais
+### 🖥️ Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
-## ☁️ Cloud Providers
+### ☁️ Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ## 🚀 Projetos Destacados
 
-## [Cockpit Setup Manager](https://github.com/jwsallesbr/cockpit-setup-manager)
-_Uma ferramenta de automação multi-distro para instalação e configuração do Cockpit_
-![GitHub stars](https://img.shields.io/github/stars/jwsallesbr/cockpit-setup-manager?style=social)
+<div align="center">
+  
+### 🛠️ Ferramentas de Administração Web para Servidores Linux
+
+| Projeto | Descrição | Distribuições Suportadas | 
+|---------|-----------|--------------------------|
+| [![Cockpit](https://img.shields.io/badge/Cockpit_Setup_Manager-0066CC?style=for-the-badge&logo=cockpit&logoColor=white)](https://github.com/jwsallesbr/cockpit-setup-manager) | Foco em containers (Podman), máquinas virtuais e orquestração | ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu) ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos) ![Rocky](https://img.shields.io/badge/-Rocky-10B981?logo=rockylinux) ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora) |
+| [![Webmin](https://img.shields.io/badge/Webmin_Setup_Manager-7DA0D0?style=for-the-badge&logo=webmin&logoColor=white)](https://github.com/jwsallesbr/webmin-setup-manager) | Foco em configuração detalhada de serviços (Apache, BIND, Postfix etc.) | ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu) ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos) ![Rocky](https://img.shields.io/badge/-Rocky-10B981?logo=rockylinux) ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora) |
+
+</div>
 
 **Principais recursos:**
-- ✔️ Suporte para Debian, Ubuntu, CentOS, Rocky Linux e Fedora
-- ⚡ Configuração automatizada de módulos
-- 🔧 Instala o Cockpit com todos os componentes essenciais
-- 🗑 Remove automaticamente o Cockpit e seus arquivos residuais
+- ⚡ Instalação/remoção automatizada
+- 🔄 Configuração pós-instalação
+- 🧹 Limpeza de arquivos residuais
+- 🌐 URL de acesso gerado automaticamente
 
 ---
 
